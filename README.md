@@ -1,56 +1,38 @@
-# 📦 Project Name
+# April Denise Bihag 🚀
 
-## 🚀 Description
-A brief description of your project goes here. Explain what it does and why it's useful.
+A simple description of your project.
 
-## 📸 Screenshots
-Include screenshots or a demo GIF (if applicable):
-```
-![Screenshot](link-to-screenshot.png)
-```
+![Demo Animation](https://your-gif-link-here.com/demo.gif)
 
-## 🛠 Features
-- ✨ Feature 1
-- 🚀 Feature 2
-- 🔥 Feature 3
-
-## 📂 Installation
+## Installation ⚙️
 1. Clone the repository:
-```sh
-git clone https://github.com/your-username/repository-name.git
-```
+   ```sh
+   git clone https://github.com/your-username/repository-name.git
+   ```
 2. Navigate to the project directory:
-```sh
-cd repository-name
-```
-3. Install dependencies:
-```sh
-npm install  # or yarn install
-```
-4. Run the application:
-```sh
-npm start  # or yarn start
-```
+   ```sh
+   cd repository-name
+   ```
+3. Run the application:
+   ```sh
+   npm start  # or your preferred command
+   ```
 
-## 🏗 Built With
-- 🛠 Technology 1
-- 🚀 Technology 2
-- 🔥 Technology 3
+## Features ✨
+- 🚀 Smooth animations
+- 🎨 Modern UI
+- ⚡ Fast performance
 
-## 📌 Usage
-Explain how to use your project with examples and commands.
+## Technologies Used 🛠
+- React / Flutter / HTML / CSS
+- Animation libraries (e.g., Lottie, GSAP)
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License 📜
+This project is licensed under the MIT License.
 
-## 🤝 Contributing
-Pull requests are welcome! Please open an issue first to discuss what you’d like to change.
-
-## 📧 Contact
-- ✉️ Email: your-email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+## Contact 📩
+For any inquiries, contact [your-email@example.com](mailto:your-email@example.com).
 
 ---
-⭐ Don't forget to give this project a star if you found it useful!
+⭐ Don't forget to **star** this repository if you like it!
 
